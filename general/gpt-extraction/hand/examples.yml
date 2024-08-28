@@ -1,0 +1,41 @@
+1:
+    DOCUMENT:
+        "The complainants described the officers as having been angry and peaking rudely to them, but did not corroborate one another in any detailed manner. The officers denied that any of them were rude or angry. There were no independent witnesses to the interaction between officers and complainants. There was insufficient evidence to prove or disprove the allegation."
+    FINDING: NS
+    RESPONSE:
+    - "Complainants did not corroborate one another in any detailed manner"
+    - "The officers denied that any of them were rude or angry."
+    - "There were no independent witnesses to the interaction between officers and complainants."
+
+2:
+    DOCUMENT: 
+        "In his written complaint, the complainant stated he was placed in tight handcuffs. In addition, the complainant alleged that the officers injured his wrists and elbow. The complainant did not respond to OCC’s request for an interview. The named officers stated they saw the complainant riding his bicycle on the sidewalk. They stated the complainant gave them the finger (a profane gesture) and rode off. The officers stated that when they caught up with the complainant, he got off his bicycle and approached them in a hostile manner. The officers stated they handcuffed the complainant using a SFPD police academy taught rear wristlock control hold, using only the minimal amount of force. Medical records indicated the complainant had some redness on his left wrist and bruising to the left elbow. No witnesses were identified. There was insufficient evidence to either prove or disprove the allegation."
+    FINDING: NS
+    RESPONSE:
+    - "The complainant did not respond to OCC’s request for an interview."
+    - "In his written complaint, the complainant stated he was placed in tight handcuffs. In addition, the complainant alleged that the officers injured his wrists and elbow. Medical records indicated the complainant had some redness on his left wrist and bruising to the left elbow."
+    - "The officers stated they handcuffed the complainant using a SFPD police academy taught rear wristlock control hold, using only the minimal amount of force."
+    - "No witnesses were identified."
+
+3:
+    DOCUMENT: "The complainant stated that her son was stopped for no apparent reason. She was not present during the traffic stop. The named officers stated they were driving behind the complainant’s son’s vehicle when they observed that the vehicle had expired registration tabs. Records from the California Department of Motor Vehicles indicate that the vehicle in question had expired registration when the vehicle was stopped. Department General Order 5.03 allows a police officer to briefly detain a person for questioning or request identification only if the officer has reasonable suspicion that the person’s behavior is related to criminal activity. The evidence proved that the act, which provided the basis for the allegation, occurred. However, the act was justified, lawful and proper."
+    FINDING: PC
+    RESPONSE:
+    - "The named officers stated they observed that the vehicle had expired registration tabs."
+    - "Records from the California Department of Motor Vehicles indicate that the vehicle in question had expired registration when the vehicle was stopped."
+    - "Department General Order 5.03 allows a police officer to briefly detain a person for questioning or request identification only if the officer has reasonable suspicion that the person’s behavior is related to criminal activity."
+
+4:
+    DOCUMENT: "Based on the information provided by the complainant and the investigation, including the research of department records, there was insufficient evidence to identify the individual involved as a sworn member of the police department."
+    FINDING: NS
+    RESPONSE: 
+    - "There was insufficient evidence to identify the individual involved as a sworn member of the police department."
+
+5:
+    DOCUMENT: 
+        "The complainant stated that the named officer made inappropriate comments, frequently laced with profanity. The complainant stated that when her grandchildren were detained by the officer, her granddaughter called her from the scene via cellular phone to report that a male and female plain clothes officers had stopped and detained them. The complainant stated that she could hear the male officer shouting profane and inappropriate comments to her granddaughter during the time that she and her granddaughter had their telephonic conversation. The complainant heard her granddaughter ask the male officer a question regarding the ongoing police action. The male officer’s response was “Shut the fuck up or I’ll punch you in the face.” Both witnesses overheard the officer’s response and gave similar tatements to the OCC. The officer denied the allegation. The officer’s partner stated that he could have used profanity. When pressed for specifics, she claimed not to recall. The officer’s partner stated that she declined to comment about her partner’s personality. The officer admitted using profanity. A preponderance of the evidence proved that the conduct complained of did occur, and that using as a tandard the applicable regulations of the Department, the conduct was improper."
+    FINDING: S
+    RESPONSE:
+    - "The officer admitted using profanity."
+    - "The officer’s partner stated that he could have used profanity."
+    - "Both witnesses overheard the officer’s response and gave similar tatements to the OCC."

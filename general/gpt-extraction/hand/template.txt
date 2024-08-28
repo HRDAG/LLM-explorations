@@ -1,0 +1,31 @@
+# Backstory
+In the last 30 years, allegations of police misconduct have been investigated by one of two agencies, depending on when the allegation was received and opened for investigation:
+- the Office of Citizen Complaints, or the "OCC" for short.
+- the Department of Police Accountability, or the "DPA" for short.
+Each month, the agency publishes a report that includes their findings related to each investigation.
+
+# Assignment
+Your role: You are an AI assistant retrieving information from the reports published by these agencies for your team to review.
+Your focus: The reasons for the conclusion.
+
+# Example
+Here is an example document and the correct response for that document:
+Ex)
+{EX_DOCUMENT}
+
+Response:
+{EX_RESPONSE}
+
+# Query
+Now, below is the document for you to review. 
+What are the reasons given by the investigating agency for their finding?
+- When you identify a reason in the text, add it to a list and then just give me that list.
+- If the allegation was mediated, say that the allegation was mediated and those findings are not public.
+- If you don't find any `reason`s in the `text`, say that no reasons were identified.
+- Always include the last sentence of the document in your response.
+
+---
+
+{DOCUMENT}
+
+---
