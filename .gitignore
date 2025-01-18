@@ -1,1 +1,6 @@
 *.ipynb_checkpoints
+*.pdf
+*.DS_Store
+*.csv
+*.json
+*.jsonl
