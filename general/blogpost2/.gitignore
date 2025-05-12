@@ -1,0 +1,6 @@
+*.env
+*__pycache__*
+*.pdf
+*.csv
+*.DS_Store
+*.txt
